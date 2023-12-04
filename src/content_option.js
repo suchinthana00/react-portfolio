@@ -1,144 +1,147 @@
-const logotext = "JOHN";
+const logotext = "Prageeth";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Prageeth Prasanga",
+    description: "I design, draft and build your dream constrution with profession experiance",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Prageeth Prasanga",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Technical Officer",
+        second: "Architectural Draftsman",
+        third: "Civil Engineering Technician",
+        fourth: "Quality Engineer"
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I design, draft and supervise construction for various vendors for houses, universities, hotels and more",
+    your_img_url: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/propic2min.jpg?v=1701611147",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About my self",
+    aboutme: "I'm a Technical Officer, Architectural Draftsman, Quantity Surveyor, Civil Engineering Technician and Quality Engineer who had proven my work with various projects to the clients in multiple scales, including governments, cooperates and individual vendors",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+const worktimeline = [
+    {
+        jobtitle: "Civil Engineering Technical Officer",
+        where: "PS Construction",
+        date: "Jul 2023 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Architectural Designer and Technical Officer",
+        where: "A-design & construction",
+        date: "Jul 2023 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Civil Engineering Technical Officer",
+        where: "Uva Wellassa University of Sri Lanka",
+        date: "Jul 2019 - Jul 2023",
     },
+    {
+        jobtitle: "Civil Engineering Technical Officer",
+        where: "Central Engineering Consultancy Bureau",
+        date: "Dec 2018 - Jun 2019",
+    },
+    {
+        jobtitle: "Civil Engineering Technical Officer",
+        where: "Walkers CML Group",
+        date: "Jun 2018 - Dec 2018",
+    },
+    {
+        jobtitle: "Computer Aided Design Drafter",
+        where: "Uva Wellassa University of Sri Lanka",
+        date: "Feb 2017 - Aug 2017",
+    }
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Quality Engineer",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Architectural Drafts",
+        value: 95,
     },
     {
-        name: "Javascript",
+        name: "SketchUp",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
+        name: "Lumion",
         value: 85,
     },
+    {
+        name: "AutoCAD",
+        value: 90,
+    },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+        title: "Civil Engineering Technical Officer",
+        description: "Experienced in coordinating project schedules, engineering designs, and technical specifications for smooth execution of projects within time parameters. Proficient in CAD designing, detailing, and supervising construction of various structures.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Quantity Surveying",
+        description: "Expertise in planning time and resources, scheduling activities, updating progress, and analyzing variances. Skilled in evaluating design changes and coordinating with technical teams for timely project execution.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Project Planning",
+        description: "Strong background in planning time and resources, scheduling activities, and forecasting weekly and monthly resource requirements for construction projects.",
+    },
+    {
+        title: "Construction Engineering",
+        description: "Versatile experience in executing detailed design and engineering for equipment, systems, and layouts. Proficient in processing and plotting data using design architectural software.",
+    },
+    {
+        title: "AutoCAD",
+        description: "Proficient in using AutoCAD for tasks such as CAD designing, detailing, and supervising construction of various structures. Skilled in government-related projects.",
+    },
+    {
+        title: "SketchUp",
+        description: "Skilled in using SketchUp for architectural and design tasks. Endorsed as a SketchUp expert for civil engineering projects.",
+    },
+    {
+        title: "Lumion",
+        description: "Endorsed as a Lumion expert with experience in creating visually appealing architectural renderings. Proficient in using Lumion for project presentations.",
+    },
+    {
+        title: "Revit",
+        description: "Skills in using Revit for computer-aided design (CAD) tasks. Proficient in executing detail design and engineering for various structures.",
+    },
+    {
+        title: "Technical Officer Roles",
+        description: "Open to work in technical officer roles, including Architectural Draughtsman, Civil Engineering Technical Officer, Quantity Surveyor, and Quality Engineer positions.",
     },
 ];
+
+
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fcc.jpg?v=1701583688",
+        description: "Recidence at Badulla",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_m1.jpg?v=1701583222",
+        description: "Hotel complex in Diyatalawa",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_E2.jpg?v=1701582094",
+        description: "Eco lounge Kandy",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/home_b.png?v=1701583619",
+        description: "Design plan for Home in Badulla",
         link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "prageethprasanga@gmail.com",
+    YOUR_FONE: "(+94)74-3707436",
+    description: "Reach me out for your Technical Officer, Architectural Draftsman, Quantity Surveyor, Civil Engineering Technician and Quality Engineer needs.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -148,8 +151,8 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    facebook: "https://www.facebook.com/people/Prageeth-Prasanga/100000946346957/",
+    linkedin: "https://www.linkedin.com/in/prageeth-prasanga-premathilaka-2b995b166/",
     twitter: "https://twitter.com",
 };
 export {
