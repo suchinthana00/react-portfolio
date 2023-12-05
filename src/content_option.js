@@ -22,13 +22,13 @@ const dataabout = {
 };
 const worktimeline = [
     {
-        jobtitle: "Civil Engineering Technical Officer",
-        where: "PS Construction",
+        jobtitle: "Architectural Designer and Technical Officer",
+        where: "A-design & construction",
         date: "Jul 2023 - Present",
     },
     {
-        jobtitle: "Architectural Designer and Technical Officer",
-        where: "A-design & construction",
+        jobtitle: "Civil Engineering Technical Officer",
+        where: "PS Construction",
         date: "Jul 2023 - Present",
     },
     {
