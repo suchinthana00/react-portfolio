@@ -7,7 +7,7 @@ const meta = {
 const introdata = {
     title: "I’m Prageeth Prasanga",
     animated: {
-        first: "Technical Officer ",
+        first: "Technical Officer",
         second: "Architectural Draftsman",
         third: "Civil Engineering Technician",
         fourth: "Quality Engineer"
