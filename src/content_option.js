@@ -18,7 +18,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: "I'm a Technical Officer, Architectural Draftsman, Quantity Surveyor, Civil Engineering Technician and Quality Engineer who had proven my work with various projects to the clients in multiple scales, including governments, cooperates and individual vendors",
+    aboutme: "Dedicated and skilled Draftsman with over 5 years of experience in architectural, civil, and structural CAD design engineering, seeking a challenging position in Saudi Arabia. Proficient in AutoCAD, Revit, and other design tools, with a proven track record in infrastructure projects.",
 };
 const worktimeline = [
     {
