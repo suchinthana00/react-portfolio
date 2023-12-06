@@ -13,7 +13,7 @@ const introdata = {
         fourth: "Quality Engineer"
     },
     description: "I design, draft and supervise construction for various vendors for houses, universities, hotels and more",
-    your_img_url: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/propic2min.jpg?v=1701611147",
+    your_img_url: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/propic3.jpg?v=1701841983",
 };
 
 const dataabout = {
@@ -54,24 +54,34 @@ const worktimeline = [
 ];
 
 const skills = [{
-        name: "Quality Engineer",
+        name: "CAD Designing",
         value: 90,
+        description:"•AutoCAD   •Revit   •SketchUp    •Photoshop"
     },
     {
-        name: "Architectural Drafts",
+        name: "Project Management",
         value: 95,
+        description:"•Project coordination •Detailing & supervising construction •Mapping client’s requirements •Evaluating design changes"
     },
     {
-        name: "SketchUp",
+        name: "Infrastructure and Construction",
         value: 80,
+        description:"•Drawings and technical specifications •Cost planning and reporting •Budget estimation •Quantity surveying •Contract administration"
     },
     {
-        name: "Lumion",
+        name: "Structural Expertise",
         value: 85,
+        description:"•Detail design & engineering for concrete and steel structures •High-rise buildings •Bridges •Earthworks •Sports stadiums"
     },
     {
-        name: "AutoCAD",
+        name: "Software Proficiency",
         value: 90,
+        description:"•Lumion •Cad measure •Construction software •MS Excel, Word, Project"
+    },
+    {
+        name: "Additional Tools",
+        value: 90,
+        description:"•Risk and change management •Total Stations (Sokia 630rk, Trimble 610, Theodolites, Geodimeter 510) •Automatic levels (Sokia B 40, NL series)"
     },
 ];
 

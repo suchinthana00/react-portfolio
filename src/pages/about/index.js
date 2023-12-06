@@ -64,6 +64,7 @@ export const About = () => {
               return (
                 <div key={i}>
                   <h3 className="progress-title">{data.name}</h3>
+                  <p className="service_desc">{data.description}</p>
                   <div className="progress">
                     <div
                       className="progress-bar"
