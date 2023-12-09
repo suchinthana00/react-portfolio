@@ -127,25 +127,84 @@ const services = [
 
 
 const dataportfolio = [{
-        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fcc.jpg?v=1701583688",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_n4_small_c3ddd51e-0d3a-4be4-8170-bba75247c732.webp?v=1702149048",
         description: "Recidence at Badulla",
-        link: "#",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fdd_small_4837903e-bbe7-4d40-ba54-0c1526947d78.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_gv_small_b4a44e74-c1b4-413b-99bf-79263fb1b3c4.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_nbb_small_b7a60683-a7ef-43e6-9d64-815a147e503c.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_nb_small_4fd39817-dae7-4435-bd4d-ab0e0aac38a9.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_n1_small_9e1ed063-7245-427d-9126-fc1b0ef8e2a3.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fe_small_47cda78e-140b-4a86-94e9-75790d2c820a.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fcc_small_e1ad4c5f-f263-4c81-a260-1c86d1ecb02b.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_bc2_small_dfe28c61-cb58-4d07-a040-38df79b33884.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_n33_small_2c668e45-c447-421a-bc6e-39827674333d.webp?v=1702149047',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_fd_small_6d393cd0-ccfd-4689-9088-8301ae756f13.webp?v=1702149046',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_ki_small_329a0374-4aaf-4ac1-b10d-457b7e615463.webp?v=1702149046',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_bc_small_f0ef766a-73e2-4bb6-92b8-cace7571207e.webp?v=1702149045',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_mb_small_bf4bbc77-8398-463c-bf80-d6fc6ddc5c5f.webp?v=1702149045',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_bs_small_a460d86c-ca0f-4e90-b2f3-1ff7bf0801af.webp?v=1702149044',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_b2_small_c13bc4e8-fe00-4217-853f-961bcce421af.webp?v=1702149044',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_lb_small_91397b95-c489-4154-915e-d6de19babb04.webp?v=1702149044',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_6H_small_93db0ccf-8906-4955-ba92-e1ca1db2caa3.webp?v=1702149044',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/recident_b_11_small_a830742e-76f6-4b8a-9590-6a4fad5a90c1.webp?v=1702149044'
+          ]
     },
     {
-        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_m1.jpg?v=1701583222",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_m1_sm_all.webp?v=1702151471",
         description: "Hotel complex in Diyatalawa",
-        link: "#",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_balcony_sm_all.webp?v=1702151471',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_dc_sm_all.webp?v=1702151471',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_ER_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_balcony_bath_tub_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_balcony_2_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_front_view_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_0_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_bed_passage_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_bed_sm_all.webp?v=1702151470',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/diyatalawa_h_bed_2_sm_all.webp?v=1702151469'
+          ]
     },
     {
-        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_E2.jpg?v=1701582094",
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_6_small_92c265d3-8f2a-4a47-b4d2-4491fa74df51.webp?v=1702152534",
         description: "Eco lounge Kandy",
-        link: "#",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_45_small_d009c92c-b241-44cb-a409-a9931304d50c.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_5_small_dc2b97b5-fcb0-4771-a025-185b47157411.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_E2_small_7ad80edb-cd85-4fce-a41d-b1d7dfbc4122.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_4_small_2cbe513c-fbbb-4a18-9938-2c4ab416c5c9.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_2_small_f8636b06-42f4-45ee-807d-8aa921b7abbb.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_E_small_0236022e-5318-40bb-8764-a29bd499de7d.webp?v=1702152534',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/eco_3_small_cb3b52f1-9abc-4829-b16f-dce5c1104eaf.webp?v=1702152533'
+          ]
     },
     {
-        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/home_b.png?v=1701583619",
-        description: "Design plan for Home in Badulla",
-        link: "#",
-    }
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/3reci_b1__sm_all.webp?v=1702154735",
+        description: "Three story recidential building in Kandy",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/3reci_b5__sm_all.webp?v=1702154735',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/3reci_b3__sm_all.webp?v=1702154735',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/3reci_b2__sm_all.webp?v=1702154735',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/3reci_b4__sm_all.webp?v=1702154735'
+          ]
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library3__small_8fcb94dd-1a13-4b0e-bf82-8d66964fab32.webp?v=1702155885",
+        description: "Design and construction of a three storied building for the library of Uva Wellassa University",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library1__small_92f246d9-7de3-4ab8-be82-fc54ec602192.webp?v=1702155885',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library2__small_603b95ec-b57e-4a2a-9cd9-c03a2eb73039.webp?v=1702155885'
+          ]
+    },
+    {
+        img: "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library3__small_8fcb94dd-1a13-4b0e-bf82-8d66964fab32.webp?v=1702155885",
+        description: "Design and construction of a three storied building for the library of Uva Wellassa University",
+        imageUrls: [
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library1__small_92f246d9-7de3-4ab8-be82-fc54ec602192.webp?v=1702155885',
+            'https://cdn.shopify.com/s/files/1/0576/2954/0524/files/library2__small_603b95ec-b57e-4a2a-9cd9-c03a2eb73039.webp?v=1702155885'
+          ]
+    },
 ];
 
 const contactConfig = {

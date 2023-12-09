@@ -21,6 +21,12 @@
     min-height: 300px;
 }
 
+@media (min-width:320px)  {
+    .po_item {
+        min-height: 200px;
+    }
+}
+
 .po_item img {
     max-width: 100%;
 }

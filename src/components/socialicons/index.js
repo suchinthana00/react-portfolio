@@ -14,20 +14,6 @@ export const Socialicons = (params) => {
   return (
     <div className="stick_follow_icon">
       <ul>
-        {socialprofils.twitter && (
-          <li>
-            <a href={socialprofils.twitter}>
-              <FaTwitter />
-            </a>
-          </li>
-        )}
-        {socialprofils.github && (
-          <li>
-            <a href={socialprofils.github}>
-              <FaGithub />
-            </a>
-          </li>
-        )}
         {socialprofils.facebook && (
           <li>
             <a href={socialprofils.facebook}>
