@@ -16,7 +16,7 @@ const introdata = {
   description:
     "I design, draft and supervise construction for various vendors for houses, universities, hotels and more",
   your_img_url:
-    "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/propic3.jpg?v=1701841983",
+    "https://cdn.shopify.com/s/files/1/0576/2954/0524/files/minipropic3.webp?v=1702287330",
 };
 
 const dataabout = {
